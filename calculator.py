@@ -1,6 +1,6 @@
 def add_numbers(a: int, b: int) -> int:
     """Adds two numbers together."""
-    return a + b
+    return a - b
 
 def multiply_numbers(a: int, b: int) -> int:
     """Multiplies two numbers."""
